@@ -1,6 +1,7 @@
 {
-  "name": "My dApp",
-  "description": "This is a description of my dApp",
-  "url": "http://localhost:5173",
-  "redirect_url": "http://localhost:5173"
+    "url": "http://localhost:5173/",
+    "name": "test-youtube",
+    "iconUrl": "http://test-youtube.s3-website-us-east-1.amazonaws.com/vercel.svg",
+    "termsOfUseUrl": "http://test-youtube.s3-website-us-east-1.amazonaws.com/terms",
+    "privacyPolicyUrl": "http://test-youtube.s3-website-us-east-1.amazonaws.com/privacy"
 }
