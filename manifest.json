@@ -2,6 +2,5 @@
   "name": "My dApp",
   "description": "This is a description of my dApp",
   "url": "http://localhost:5173",
-  "icon": "",
-  "redirect_url": "http://localhost:5173",
+  "redirect_url": "http://localhost:5173"
 }
